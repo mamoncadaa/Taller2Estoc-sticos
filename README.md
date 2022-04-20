@@ -1,1 +1,1 @@
-# Taller2Estoc-sticos
+Taller 2 Procesos Estocásticos
